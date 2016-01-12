@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="1444"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="885" y="859" type="line" name="hr01"/>
+      <point x="663" y="859" type="line"/>
+      <point x="711" y="1089" type="line"/>
+      <point x="618" y="1146"/>
+      <point x="515" y="1181"/>
+      <point x="383" y="1162" type="curve"/>
+      <point x="337" y="859" type="line" name="hr02"/>
+      <point x="91" y="859" type="line"/>
+      <point x="54" y="761"/>
+      <point x="51" y="723"/>
+      <point x="76" y="626" type="curve"/>
+      <point x="305" y="614" type="line"/>
+      <point x="264" y="309" type="line"/>
+      <point x="53" y="309" type="line"/>
+      <point x="18" y="245"/>
+      <point x="14" y="189"/>
+      <point x="23" y="101" type="curve"/>
+      <point x="231" y="82" type="line"/>
+      <point x="188" y="-182" type="line"/>
+      <point x="276" y="-227"/>
+      <point x="370" y="-251"/>
+      <point x="474" y="-256" type="curve"/>
+      <point x="531" y="72" type="line"/>
+      <point x="746" y="64" type="line"/>
+      <point x="696" y="-182" type="line"/>
+      <point x="788" y="-231"/>
+      <point x="871" y="-257"/>
+      <point x="973" y="-255" type="curve"/>
+      <point x="1038" y="58" type="line" name="hr03"/>
+      <point x="1304" y="45" type="line"/>
+      <point x="1340" y="123"/>
+      <point x="1359" y="225"/>
+      <point x="1330" y="309" type="curve"/>
+      <point x="1100" y="309" type="line"/>
+      <point x="1156" y="621" type="line"/>
+      <point x="1380" y="621" type="line"/>
+      <point x="1418" y="704"/>
+      <point x="1420" y="780"/>
+      <point x="1402" y="859" type="curve"/>
+      <point x="1203" y="859" type="line"/>
+      <point x="1252" y="1089" type="line"/>
+      <point x="1155" y="1162"/>
+      <point x="1057" y="1182"/>
+      <point x="932" y="1161" type="curve"/>
+    </contour>
+    <contour>
+      <point x="636" y="611" type="line" name="hr04"/>
+      <point x="844" y="611" type="line"/>
+      <point x="794" y="309" type="line"/>
+      <point x="580" y="309" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>480</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="68" width="241" />
+      <hstem pos="611" width="248" />
+      <vstem pos="19" width="1394" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="68" width="241" />
+      <hstem pos="621" width="238" />
+      <vstem pos="19" width="1394" />
+    </hintset>
+    <hintset pointTag="hr03">
+      <hstem pos="51" width="257" />
+      <hstem pos="621" width="238" />
+      <vstem pos="19" width="1394" />
+    </hintset>
+    <hintset pointTag="hr04">
+      <hstem pos="68" width="241" />
+      <hstem pos="611" width="248" />
+      <vstem pos="19" width="1394" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

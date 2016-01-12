@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="1">
+  <advance width="1357"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="111" y="437" type="curve" name="hr00"/>
+      <point x="488" y="423"/>
+      <point x="1074" y="432"/>
+      <point x="1158" y="439" type="curve"/>
+      <point x="1212" y="545"/>
+      <point x="1249" y="658"/>
+      <point x="1226" y="754" type="curve"/>
+      <point x="167" y="689" type="line"/>
+      <point x="121" y="611"/>
+      <point x="99" y="550"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="430" width="324" />
+      <vstem pos="1226" width="7" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

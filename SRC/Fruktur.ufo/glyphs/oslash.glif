@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="1083"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="756" y="813" type="line" name="hr00"/>
+      <point x="977" y="1291" type="line"/>
+      <point x="928" y="1389"/>
+      <point x="882" y="1421"/>
+      <point x="786" y="1448" type="curve"/>
+      <point x="607" y="996" type="line"/>
+    </contour>
+    <contour>
+      <point x="319" y="337" type="line"/>
+      <point x="142" y="-130" type="line"/>
+      <point x="189" y="-208"/>
+      <point x="244" y="-228"/>
+      <point x="319" y="-232" type="curve"/>
+      <point x="492" y="149" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="-232" width="1689" />
+      <vstem pos="142" width="875" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

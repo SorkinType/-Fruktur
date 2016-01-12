@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="636"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="200" y="-293" type="line" name="hr01"/>
+      <point x="288" y="-323"/>
+      <point x="372" y="-320"/>
+      <point x="470" y="-289" type="curve"/>
+      <point x="474" y="499" type="line"/>
+      <point x="379" y="527"/>
+      <point x="281" y="533"/>
+      <point x="178" y="513" type="curve"/>
+    </contour>
+    <contour>
+      <point x="480" y="1838" type="line" name="hr02"/>
+      <point x="391" y="1864"/>
+      <point x="207" y="1841"/>
+      <point x="142" y="1796" type="curve"/>
+      <point x="170" y="791" type="line"/>
+      <point x="271" y="770"/>
+      <point x="372" y="771"/>
+      <point x="475" y="798" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="513" width="12" />
+      <hstem pos="1838" width="11" />
+      <vstem pos="189" width="283" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="513" width="12" />
+      <hstem pos="1838" width="11" />
+      <vstem pos="156" width="321" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
