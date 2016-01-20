@@ -25,12 +25,17 @@ languagesystem latn ROM ;
 
 
 
+
+
+
 feature aalt{
   feature locl;
   feature ordn;
 } aalt; 
 
 feature locl { # Localized Forms
+ script DFLT;
+ script latn;
 # Latin
 language AZE  exclude_dflt; # Azeri
     sub i by i.cy;
@@ -52,6 +57,7 @@ lookup locl_ROM;
 } locl;
 
 feature ordn {
+ script DFLT;
  script latn;
   sub @ordn1 a' by ordfeminine;
   sub @ordn1 o' by ordmasculine;
@@ -64,6 +70,7 @@ feature ordn {
  } ordn; 
 
 feature frac { # Fractions
+ script DFLT;
  script latn; # Latin
     sub one slash four by onequarter;
     sub one slash two by onehalf;
@@ -77,6 +84,7 @@ feature frac { # Fractions
  } frac;
 
 feature sups { # Superscript
+ script DFLT;
  script latn; # Latin
     sub @sups1 by @sups2;  
  language AZE ; # Azeri
@@ -86,6 +94,12 @@ feature sups { # Superscript
  } sups;
 
 feature liga {
+ script DFLT;
+  sub f f i by f_f_i;
+  sub f f l by f_f_l;
+  sub f f by f_f;
+  sub f i by fi;
+  sub f l by fl;
  script latn;
   sub f f i by f_f_i;
   sub f f l by f_f_l;
@@ -102,6 +116,9 @@ feature liga {
  language MOL ; # Moldavian
  language ROM ; # Romanian
 } liga; 
+
+
+
 
 
 

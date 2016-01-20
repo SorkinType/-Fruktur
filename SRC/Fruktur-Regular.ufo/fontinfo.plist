@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>1529</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com)with Reserved Font Name &#39;Fruktur&#39;</string>
+  <string>Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name &#39;Fruktur&#39;</string>
   <key>descender</key>
   <integer>-540</integer>
   <key>familyName</key>
@@ -15,7 +15,7 @@
   <key>italicAngle</key>
   <integer>0</integer>
   <key>openTypeHeadCreated</key>
-  <string>2012/09/12 09:26:00</string>
+  <string>2012/12/15 15:06:31</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -44,7 +44,7 @@
   <key>openTypeNameUniqueID</key>
   <string>ViktoriyaGrabowska: Fruktur: 2012</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.002</string>
+  <string>Version 1.003</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -148,7 +148,7 @@
   <key>postscriptUniqueID</key>
   <integer>-1</integer>
   <key>postscriptFontName</key>
-  <string>Fruktur</string>
+  <string>Fruktur-Regular</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
@@ -197,7 +197,7 @@
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>2</integer>
+  <integer>3</integer>
   <key>year</key>
   <integer>2012</integer>
   <key>xHeight</key>
