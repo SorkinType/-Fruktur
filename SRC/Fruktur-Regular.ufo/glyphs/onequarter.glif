@@ -54,20 +54,7 @@
       <point x="1963" y="-19"/>
       <point x="2024" y="-10"/>
     </contour>
-    <component base="one" xScale="0.875598" yScale="0.875104" xOffset="145" yOffset="781"/>
+    <component base="one" xOffset="145" yOffset="781" xScale="0.876" yScale="0.875"/>
     <component base="fraction" xOffset="264" yOffset="93"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="1" width="-21" />
-      <vstem pos="1192" width="27" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

@@ -25,7 +25,10 @@ https://github.com/EbenSorkin/Fruktur
 
 ChangeLog
 
-12 Jan 2014 (Eben Sorkin) Fruktur v1.003
+20 Jan 2016 (Dave Crossland) Fruktur v1.004
+- Fix OpenType features
+
+12 Jan 2016 (Eben Sorkin) Fruktur v1.003
 - Small Improvement to language coverage 
 - Additional OpenType features
 - Added hinting using TTFautohint version 1.4.1

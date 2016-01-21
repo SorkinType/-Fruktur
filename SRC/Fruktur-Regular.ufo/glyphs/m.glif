@@ -4,7 +4,7 @@
   <unicode hex="006D"/>
   <outline>
     <contour>
-      <point x="1186" y="224" type="curve" smooth="yes" name="hr01"/>
+      <point x="1186" y="224" type="curve" name="hr01" smooth="yes"/>
       <point x="1182" y="160"/>
       <point x="1201" y="121"/>
       <point x="1248" y="72" type="curve" smooth="yes"/>
@@ -21,7 +21,7 @@
       <point x="1616" y="1059" type="curve"/>
       <point x="1484" y="1167"/>
       <point x="1326" y="1184"/>
-      <point x="1254" y="1183" type="curve" smooth="yes" name="hr02"/>
+      <point x="1254" y="1183" type="curve" name="hr02" smooth="yes"/>
       <point x="1197" y="1182"/>
       <point x="1172" y="1172"/>
       <point x="1151" y="1166" type="curve"/>
@@ -89,78 +89,50 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
     <dict>
-      <key>angle</key>
-      <real>0</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>563</real>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>563</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>366</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>788</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>867</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
-    <dict>
-      <key>angle</key>
-      <real>0</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>366</real>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <real>0</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>788</real>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>867</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-  </array>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr01">
-      <hstem pos="1" width="-21" />
-      <hstem pos="1186" width="-20" />
-      <vstem pos="9" width="1704" />
-    </hintset>
-    <hintset pointTag="hr02">
-      <hstem pos="1" width="-21" />
-      <hstem pos="1183" width="-20" />
-      <vstem pos="9" width="1704" />
-    </hintset>
-    <hintset pointTag="hr03">
-      <hstem pos="1" width="-21" />
-      <hstem pos="1186" width="-20" />
-      <vstem pos="9" width="1704" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
   </lib>
 </glyph>

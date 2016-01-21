@@ -15,19 +15,6 @@
       <point x="0" y="1529"/>
       <point x="-18" y="1431"/>
     </contour>
-    <component base="dotlessi" xOffset="20"/>
+    <component base="idotless" xOffset="20"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="1337" width="271" />
-      <vstem pos="602" width="8" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

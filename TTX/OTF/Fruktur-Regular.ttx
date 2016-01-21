@@ -9,6 +9,8 @@
   <cmap src="Fruktur-Regular._c_m_a_p.ttx"/>
   <post src="Fruktur-Regular._p_o_s_t.ttx"/>
   <CFF src="Fruktur-Regular.C_F_F_.ttx"/>
+  <GDEF src="Fruktur-Regular.G_D_E_F_.ttx"/>
+  <GPOS src="Fruktur-Regular.G_P_O_S_.ttx"/>
   <GSUB src="Fruktur-Regular.G_S_U_B_.ttx"/>
   <hmtx src="Fruktur-Regular._h_m_t_x.ttx"/>
 </ttFont>

@@ -60,25 +60,4 @@
       <point x="1285" y="946" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr01">
-      <hstem pos="1" width="-21" />
-      <hstem pos="887" width="58" />
-      <hstem pos="1204" width="-20" />
-      <vstem pos="14" width="1560" />
-    </hintset>
-    <hintset pointTag="hr02">
-      <hstem pos="1" width="-21" />
-      <hstem pos="887" width="58" />
-      <hstem pos="1204" width="-20" />
-      <vstem pos="14" width="325" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

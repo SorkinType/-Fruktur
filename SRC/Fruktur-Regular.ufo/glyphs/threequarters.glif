@@ -57,17 +57,4 @@
     <component base="threesuperior" yOffset="199"/>
     <component base="fraction" xOffset="354" yOffset="93"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="1" width="-21" />
-      <vstem pos="1277" width="27" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

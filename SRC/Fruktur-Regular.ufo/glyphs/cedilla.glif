@@ -27,17 +27,4 @@
       <point x="290" y="-35" type="move" name="_btm"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="-408" width="543" />
-      <vstem pos="8" width="536" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

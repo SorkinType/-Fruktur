@@ -84,25 +84,4 @@
       <point x="689" y="0" type="move" name="btm"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr01">
-      <hstem pos="2" width="-21" />
-      <vstem pos="82" width="1242" />
-    </hintset>
-    <hintset pointTag="hr02">
-      <hstem pos="1" width="-21" />
-      <vstem pos="82" width="1242" />
-    </hintset>
-    <hintset pointTag="hr03">
-      <hstem pos="2" width="-21" />
-      <vstem pos="82" width="1242" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

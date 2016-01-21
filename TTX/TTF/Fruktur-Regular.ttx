@@ -15,6 +15,8 @@
   <name src="Fruktur-Regular._n_a_m_e.ttx"/>
   <post src="Fruktur-Regular._p_o_s_t.ttx"/>
   <gasp src="Fruktur-Regular._g_a_s_p.ttx"/>
+  <GDEF src="Fruktur-Regular.G_D_E_F_.ttx"/>
+  <GPOS src="Fruktur-Regular.G_P_O_S_.ttx"/>
   <GSUB src="Fruktur-Regular.G_S_U_B_.ttx"/>
-  <TTFA src="Fruktur-Regular.T_T_F_A_.ttx"/>
+  <DSIG src="Fruktur-Regular.D_S_I_G_.ttx"/>
 </ttFont>

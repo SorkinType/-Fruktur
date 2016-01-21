@@ -75,21 +75,4 @@
       <point x="675" y="0" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr01">
-      <hstem pos="1" width="-21" />
-      <vstem pos="855" width="223" />
-    </hintset>
-    <hintset pointTag="hr02">
-      <hstem pos="0" width="-21" />
-      <vstem pos="855" width="223" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

@@ -7,7 +7,7 @@
       <point x="1078" y="1061" type="curve" name="hr01"/>
       <point x="1007" y="1145"/>
       <point x="923" y="1182"/>
-      <point x="801" y="1182" type="curve" smooth="yes" name="hr02"/>
+      <point x="801" y="1182" type="curve" name="hr02" smooth="yes"/>
       <point x="724" y="1182"/>
       <point x="654" y="1168"/>
       <point x="633" y="1154" type="curve"/>
@@ -73,45 +73,20 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
     <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>555</real>
-      <key>y</key>
-      <real>0</real>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>555</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
-  </array>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr01">
-      <hstem pos="-417" width="-21" />
-      <hstem pos="1" width="-21" />
-      <hstem pos="1191" width="-20" />
-      <vstem pos="7" width="1092" />
-    </hintset>
-    <hintset pointTag="hr02">
-      <hstem pos="-417" width="-21" />
-      <hstem pos="1" width="-21" />
-      <hstem pos="1182" width="-20" />
-      <vstem pos="7" width="1092" />
-    </hintset>
-    <hintset pointTag="hr03">
-      <hstem pos="-417" width="-21" />
-      <hstem pos="1" width="-21" />
-      <hstem pos="1191" width="-20" />
-      <vstem pos="7" width="1092" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
   </lib>
 </glyph>

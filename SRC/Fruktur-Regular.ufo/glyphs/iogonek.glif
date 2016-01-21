@@ -11,17 +11,4 @@
     <component base="i"/>
     <component base="ogonek" xOffset="74"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="-176" width="371" />
-      <vstem pos="349" width="192" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

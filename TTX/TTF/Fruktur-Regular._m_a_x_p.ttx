@@ -5,16 +5,16 @@
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="0x10000"/>
     <numGlyphs value="469"/>
-    <maxPoints value="178"/>
+    <maxPoints value="135"/>
     <maxContours value="7"/>
-    <maxCompositePoints value="206"/>
+    <maxCompositePoints value="153"/>
     <maxCompositeContours value="4"/>
     <maxZones value="2"/>
-    <maxTwilightPoints value="28"/>
-    <maxStorage value="44"/>
+    <maxTwilightPoints value="32"/>
+    <maxStorage value="48"/>
     <maxFunctionDefs value="119"/>
     <maxInstructionDefs value="0"/>
-    <maxStackElements value="153"/>
+    <maxStackElements value="146"/>
     <maxSizeOfInstructions value="3027"/>
     <maxComponentElements value="4"/>
     <maxComponentDepth value="1"/>

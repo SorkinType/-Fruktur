@@ -73,19 +73,4 @@
     </contour>
     <component base="fraction" xOffset="264"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr01">
-      <hstem pos="0" width="-21" />
-      <vstem pos="40" width="274" />
-      <vstem pos="531" width="287" />
-      <vstem pos="1643" width="287" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>
