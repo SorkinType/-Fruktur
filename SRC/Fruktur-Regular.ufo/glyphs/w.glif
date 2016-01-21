@@ -82,54 +82,30 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
     <dict>
-      <key>angle</key>
-      <real>0</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>63</real>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>0</integer>
+          <key>y</key>
+          <integer>63</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>800</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
-    <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>800</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-  </array>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr01">
-      <hstem pos="1" width="-21" />
-      <hstem pos="1204" width="-20" />
-      <vstem pos="5" width="1599" />
-    </hintset>
-    <hintset pointTag="hr02">
-      <hstem pos="0" width="-21" />
-      <hstem pos="1204" width="-20" />
-      <vstem pos="5" width="1599" />
-    </hintset>
-    <hintset pointTag="hr03">
-      <hstem pos="1" width="-21" />
-      <hstem pos="1204" width="-20" />
-      <vstem pos="5" width="1599" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
   </lib>
 </glyph>

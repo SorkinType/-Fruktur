@@ -22,21 +22,4 @@
       <point x="58" y="-241" type="curve"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr01">
-      <hstem pos="-291" width="2143" />
-      <vstem pos="1" width="575" />
-    </hintset>
-    <hintset pointTag="hr02">
-      <hstem pos="-291" width="2143" />
-      <vstem pos="265" width="311" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

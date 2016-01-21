@@ -20,17 +20,4 @@
       <point x="402" y="0" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="1624" width="-20" />
-      <vstem pos="51" width="568" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

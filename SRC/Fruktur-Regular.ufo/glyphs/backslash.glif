@@ -3,6 +3,6 @@
   <advance width="788"/>
   <unicode hex="005C"/>
   <outline>
-    <component base="slash" xScale="-1" xOffset="768"/>
+    <component base="slash" xOffset="768" xScale="-1"/>
   </outline>
 </glyph>

@@ -4,7 +4,7 @@
   <unicode hex="02DA"/>
   <outline>
     <contour>
-      <point x="611" y="1478" type="curve" smooth="yes" name="hr01"/>
+      <point x="611" y="1478" type="curve" name="hr01" smooth="yes"/>
       <point x="611" y="1628"/>
       <point x="503" y="1721"/>
       <point x="333" y="1721" type="curve" smooth="yes"/>
@@ -54,33 +54,20 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
     <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>315</real>
-      <key>y</key>
-      <real>0</real>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>315</integer>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
-  </array>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr01">
-      <hstem pos="1228" width="182" />
-      <hstem pos="1525" width="196" />
-      <vstem pos="19" width="216" />
-      <vstem pos="393" width="218" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
   </lib>
 </glyph>
