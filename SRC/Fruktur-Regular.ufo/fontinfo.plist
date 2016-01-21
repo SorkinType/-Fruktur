@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>2020</integer>
+	<key>capHeight</key>
+	<integer>1529</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Fruktur'</string>
+	<key>descender</key>
+	<integer>-540</integer>
+	<key>familyName</key>
+	<string>Fruktur</string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/12/15 15:06:31</string>
+	<key>openTypeHheaAscender</key>
+	<integer>2020</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-540</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameDescription</key>
+	<string>Fruktur appears to be a playful and powerful black letter type at Fruktur initially appears to be a playful and powerful black letter type with a warm friendly feeling. However its construction is closer to that of an upright italic. Fruktur offers some of the feeling of a black letter but with higher legibility and greater utility than is typical of black letter type. Fruktur will be most useful from medium to large sizes.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Viktoriya Grabowska</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>www.vikaniesiada.blogspot.com</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Viktoriya Grabowska</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>www.sorkintype.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Fruktur</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeNameUniqueID</key>
+	<string>ViktoriyaGrabowska: Fruktur: 2012</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.004</string>
+	<key>openTypeOS2Type</key>
+	<array>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>2020</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-540</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>STC</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>2020</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>540</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-20</integer>
+		<integer>0</integer>
+		<integer>1182</integer>
+		<integer>1204</integer>
+		<integer>1595</integer>
+		<integer>1624</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-438</integer>
+		<integer>-418</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>13</integer>
+		<integer>11</integer>
+		<integer>24</integer>
+		<integer>290</integer>
+		<integer>324</integer>
+		<integer>434</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>7</integer>
+		<integer>11</integer>
+		<integer>13</integer>
+		<integer>29</integer>
+		<integer>287</integer>
+		<integer>531</integer>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-111</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>262</integer>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>trademark</key>
+	<string>Fruktur is a trademark of Sorkin Type Co.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>4</integer>
+	<key>xHeight</key>
+	<integer>1182</integer>
+	<key>year</key>
+	<integer>2012</integer>
+</dict>
+</plist>

@@ -6,6 +6,9 @@ and any derivative works.
 
 Basic Font Information
 
+Fruktur is useful for creating short, eye-catching texts, headlines and captions.
+Fruktur is a single style (Regular) font.
+
 Fruktur is a Unicode typeface family that supports languages that use 
 the Latin script and its variants, and could be expanded to support 
 other scripts.
@@ -13,19 +16,19 @@ other scripts.
 More specifically, this release supports the following Unicode ranges: 
 Latin-1, Latin-2: Easern Europe, Turkish, Macintosh Character Set
 
-There are two Source files:
+Fruktur is licensed under the SIL Open Font License v1.1 
+(http://scripts.sil.org/OFL). To view the copyright notice and 
+license, see OFL.txt
 
-1. Fruktur.vfb Original Source Files with 
-   contour overlaps
-
-2. Fruktur.ufo Original Source Files with 
-   contour overlaps
-
-To contribute to the project contact Eben Sorkin at sorkineben@gmail.com
+To contribute to the project please visit 
+https://github.com/EbenSorkin/Fruktur
 
 ChangeLog
 
-12 Jan 2014 (Eben Sorkin) Fruktur v1.003
+20 Jan 2016 (Dave Crossland) Fruktur v1.004
+- Fix OpenType features
+
+12 Jan 2016 (Eben Sorkin) Fruktur v1.003
 - Small Improvement to language coverage 
 - Additional OpenType features
 - Added hinting using TTFautohint version 1.4.1

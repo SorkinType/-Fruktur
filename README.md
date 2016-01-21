@@ -1,25 +1,84 @@
-Fruktur
-======================
+# Fruktur
 
 Fruktur is useful for creating short, eye-catching texts, headlines and captions.
 
-Fruktur currently features one style: Regular
+it is a single-style font (Regular only.)
 
 ## License
 
-Fruktur is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
-- To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/EbenSorkin/Fruktur/blob/master/OFL.txt)
+Fruktur is licensed under the [SIL Open Font License v1.1](http://scripts.sil.org/OFL)
+
+For legal notices and license text, please see [OFL.txt](OFL.txt)
 
 ## Language Coverage
 
-OTF says that Fruktur has 73 of 105 Latin Languages covered at 100%.
+OTM says that Fruktur has 73 of 105 Latin Languages covered at 100%.
 
-Atomic Age covers at 100% the following Latin languages definions from Pyfontaine: Manx, French (Djibouti), Rombo, Scottish Gaelic, French (Algeria), Irish, Galician, Oromo (Kenya), Spanish (Venezuela), Bosnian (Latin, Bosnia & Herzegovina), Turkish (Cyprus), Machame (Tanzania), Turkish, Hungarian (Hungary), Catalan (Andorra), English (Rwanda), Icelandic (Iceland), Croatian (Croatia), Malagasy, Scottish Gaelic (United Kingdom), Swedish (Åland Islands), Friulian, Malay (Latin), Gusii, English (St. Lucia), Upper Sorbian (Germany), Dutch (Netherlands), Zulu, French (Mayotte), English (Lesotho), French (Guinea), Romanian (Romania), Sena, English (Eritrea), Ganda (Uganda), Rombo (Tanzania), Spanish (Colombia), Spanish (Chile), Spanish (Costa Rica), Spanish (Cuba), Swahili (Uganda), French (Gabon), English (Cayman Islands), Norwegian Nynorsk (Norway), English (Kiribati), Swiss German (France), Meru, English (Kenya), Kalaallisut (Greenland), Kamba (Kenya), Spanish (Honduras), French (Vanuatu), Danish (Greenland), English (Tonga), Gusii (Kenya), English (Samoa), Slovenian (Slovenia), Vunjo (Tanzania), Hungarian, Italian (San Marino), Shambala, Sango (Central African Republic), Western Frisian (Netherlands), Machame, Breton (France), Kabuverdianu (Cape Verde), Kalenjin, Maltese, Malay, Afrikaans (South Africa), Walser (Switzerland), Inari Sami (Finland), English (Hong Kong SAR China), Spanish (Guatemala), Spanish (Equatorial Guinea), English (American Samoa), English (Australia), English (Anguilla), Nyankole, English (Antigua & Barbuda), Spanish (Uruguay), French, Makhuwa-Meetto, Western Frisian, French (Comoros), Serbian (Latin, Kosovo), Embu (Kenya), Finnish, English (United States, Computer), Faroese, Dutch (Sint Maarten), Meru (Kenya), Albanian, Dutch (Suriname), Swahili, French (Réunion), Slovak, Somali, Shona, Swiss German (Switzerland), Sango, Northern Sami, French (Rwanda), English (South Sudan), English (Sint Maarten), English (Swaziland), English (Solomon Islands), English (Seychelles), English (Sudan), English (Singapore), English (St. Helena), Swedish, English (Sierra Leone), Luo (Kenya), Ganda, Luxembourgish, Latvian, Lithuanian, Filipino, Dutch (Aruba), Rwa, Taita, Turkish (Turkey), English (Zambia), English (South Africa), Swedish (Sweden), English (Zimbabwe), Esperanto, English, Spanish (Puerto Rico), Albanian (Kosovo), Estonian (Estonia), Spanish (Paraguay), Serbian (Latin, Bosnia & Herzegovina), Spanish (Peru), Teso (Kenya), Latvian (Latvia), Spanish (Panama), Basque, Estonian, Spanish, Kinyarwanda, Taita (Kenya), Inari Sami, German (Austria), Bosnian (Latin), Romansh, Rundi, Romanian, Lower Sorbian, Spanish (United States), Sangu, Catalan (Italy), English (Turks & Caicos Islands), Danish (Denmark), French (French Guiana), English (Tokelau), English (Trinidad & Tobago), Asu, English (Tuvalu), Albanian (Albania), French (Equatorial Guinea), French (Guadeloupe), English (Tanzania), Asu (Tanzania), French (Niger), Norwegian Bokmål (Norway), French (New Caledonia), Welsh (United Kingdom), Swahili (Tanzania), Teso, Indonesian (Indonesia), Portuguese (Guinea-Bissau), Friulian (Italy), English (Macau SAR China), English (Marshall Islands), English (Madagascar), English (Malaysia), English (Malawi), English (Malta), English (Mauritius), Swedish (Finland), English (Montserrat), English (Northern Mariana Islands), Spanish (Bolivia), Bemba, Bena, Somali (Kenya), Kalenjin (Kenya), English (Falkland Islands), English (Fiji), Norwegian Bokmål (Svalbard & Jan Mayen), English (Micronesia), Italian (Italy), Spanish (Latin America), Samburu, Portuguese (Cape Verde), Irish (Ireland), French (Martinique), Lower Sorbian (Germany), French (Mauritania), French (Madagascar), French (St. Martin), French (Morocco), French (Monaco), French (Mali), English (Liberia), Swahili (Congo - Kinshasa), English (Philippines), English (Pakistan), English (Pitcairn Islands), Slovenian, English (Papua New Guinea), French (Cameroon), French (Côte d’Ivoire), French (Switzerland), French (Congo - Brazzaville), French (Central African Republic), English (Puerto Rico), French (Canada), Albanian (Macedonia), Kikuyu, Kalaallisut, Cornish, English (Belgium), English (Barbados), Croatian (Bosnia & Herzegovina), English (Bermuda), English (Botswana), English (Bahamas), Portuguese (Portugal), English (Belize), Luxembourgish (Luxembourg), Chiga (Uganda), Spanish (Argentina), Colognian, German, Czech (Czech Republic), French (Tunisia), Jola-Fonyi, Slovak (Slovakia), English (Ireland), French (Togo), French (Chad), English (India), English (British Indian Ocean Territory), English (Isle of Man), Quechua, English (Jamaica), Northern Sami (Sweden), Malay (Latin, Malaysia), English (Uganda), Malay (Latin, Brunei), French (France), Finnish (Finland), English (U.S. Outlying Islands), Quechua (Bolivia), Embu, English (United States), Somali (Somalia), Luyia, Somali (Ethiopia), Oromo (Ethiopia), Luo, Bena (Tanzania), Kabuverdianu, English (World), Colognian (Germany), English (St. Kitts & Nevis), English (Namibia), English (Nigeria), English (Norfolk Island), English (New Zealand), Welsh, Czech, English (Nauru), English (Niue), Rwa (Tanzania), English (Guyana), Portuguese, Northern Sami (Norway), Spanish (Ceuta & Melilla), English (Guam), Spanish (Ecuador), English (Gambia), English (Ghana), English (Gibraltar), English (Grenada), Spanish (Spain), English (Guernsey), Serbian (Latin, Montenegro), English (United Kingdom), Spanish (El Salvador), Soga, Faroese (Faroe Islands), Malay (Latin, Singapore), Dutch (Belgium), French (French Polynesia), German (Belgium), Morisyen (Mauritius), French (St. Pierre & Miquelon), Vunjo, Italian (Switzerland), Spanish (Canary Islands), Icelandic, Italian, French (Burundi), French (Benin), French (St. Barthélemy), Makonde (Tanzania), French (Belgium), French (Burkina Faso), Dutch (Caribbean Netherlands), Portuguese (Brazil), Soga (Uganda), Rundi (Burundi), Galician (Spain), French (Mauritius), German (Liechtenstein), Shona (Zimbabwe), German (Luxembourg), Malagasy (Madagascar), Romansh (Switzerland), Sena (Mozambique), Dutch (Curaçao), Swiss German, Spanish (Nicaragua), Morisyen, Shambala (Tanzania), Jola-Fonyi (Senegal), English (Jersey), French (Wallis & Futuna), Teso (Uganda), Portuguese (Timor-Leste), Catalan, Afrikaans (Namibia), Filipino (Philippines), Portuguese (Mozambique), Cornish (United Kingdom), Swiss German (Liechtenstein), French (Luxembourg), Uzbek (Latin), Danish, Catalan (France), Basque (Spain), Portuguese (Macau SAR China), Quechua (Peru), Makonde, Somali (Djibouti), Indonesian, Samburu (Kenya), North Ndebele (Zimbabwe), Upper Sorbian, English (Canada), Bemba (Zambia), English (Cocos [Keeling] Islands), English (Cook Islands), English (Cameroon), Chiga, Kamba, Breton, Bosnian, English (Christmas Island), Oromo, English (Diego Garcia), Serbian (Latin, Serbia), English (Dominica), Luyia (Kenya), Serbian (Latin), Quechua (Ecuador), Portuguese (Angola), Makhuwa-Meetto (Mozambique), Sangu (Tanzania), German (Switzerland), French (Senegal), French (Congo - Kinshasa), Catalan (Spain), Walser, French (Seychelles), Lithuanian (Lithuania), English (Palau), French (Syria), English (Europe), English (St. Vincent & Grenadines), English (British Virgin Islands), Croatian, English (U.S. Virgin Islands), Maltese (Malta), Zulu (South Africa), English (Vanuatu), Northern Sami (Finland), Uzbek, French (Haiti), Polish, Uzbek (Latin, Uzbekistan), Kikuyu (Kenya), Afrikaans, Kinyarwanda (Rwanda), Nyankole (Uganda), Dutch, Norwegian Nynorsk, Manx (Isle of Man), Norwegian Bokmål, North Ndebele, Spanish (Philippines), Portuguese (São Tomé & Príncipe), German (Germany), Spanish (Mexico), Swahili (Kenya), Spanish (Dominican Republic), Romanian (Moldova), Polish (Poland), Basic Latin ,Basic Latin, Catalan ,Català, Central European ,Central European, Danish Accents ,Danske Accenter, Full Danish Alphabet ,Fuld Dansk Alfabet, Finnish Accents ,Suomi Aksentti, Full Finnish Alphabet ,Koko Suomi Alphabet, Icelandic Accents ,Íslenska Akcenty, Polish Accents ,Polskie Akcenty, Full Polish Alphabet ,Pełny Polski Alfabet, Slovak Accents ,Slovenský Akcenty, Full Slovak Alphabet ,Slovenský Abeceda, Western European ,Western European
+Atomic Age covers at 100% the following Latin languages definions from Pyfontaine:
+
+Afrikaans (Namibia), Afrikaans (South Africa), Albanian (Albania), Albanian
+(Kosovo), Albanian (Macedonia), Asu (Tanzania), Basic Latin, Basque (Spain), Bemba
+(Zambia), Bena (Tanzania), Bosnia & Herzegovina), Bosnian (Latin), Breton (France),
+Catalan (Andorra, Català, France, Italy, Spain) Central European, Chiga (Uganda),
+Colognian (Germany), Cornish (United Kingdom), Croatian (Bosnia & Herzegovina,
+Croatia), Czech (Czech Republic), Danish (Denmark, Greenland), Dutch (Aruba,
+Belgium, Caribbean Netherlands, Curaçao, Netherlands, Sint Maarten, Suriname), Embu
+(Kenya), English (American Samoa, Anguilla, Antigua & Barbuda, Australia, Bahamas,
+Barbados, Belgium, Belize, Bermuda, Botswana, British Indian Ocean Territory,
+British Virgin Islands, Cameroon, Canada, Cayman Islands, Christmas Island, Cocos
+[Keeling] Islands, Cook Islands, Diego Garcia, Dominica, Eritrea, Europe, Falkland
+Islands, Fiji, Gambia, Ghana, Gibraltar, Grenada, Guam, Guernsey, Guyana, Hong Kong
+SAR China, India, Ireland, Isle of Man, Jamaica, Jersey, Kenya, Kiribati, Lesotho,
+Liberia, Macau SAR China, Madagascar, Malawi, Malaysia, Malta, Marshall Islands,
+Mauritius, Micronesia, Montserrat, Namibia, Nauru, New Zealand, Nigeria, Niue,
+Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea,
+Philippines, Pitcairn Islands, Puerto Rico, Rwanda, Samoa, Seychelles, Sierra
+Leone, Singapore, Sint Maarten, Solomon Islands, South Africa, South Sudan, St.
+Helena, St. Kitts & Nevis, St. Lucia, St. Vincent & Grenadines, Sudan, Swaziland,
+Tanzania, Tokelau, Tonga, Trinidad & Tobago, Turks & Caicos Islands, Tuvalu, U.S.
+Outlying Islands, U.S. Virgin Islands, Uganda, United Kingdom, United States,
+United State, Vanuatu, World, Zambia, Zimbabwe), Esperanto, Estonian (Estonia),
+Faroese (Faroe Islands), Filipino (Philippines), Finnish (Finland), French
+(Algeria, Belgium, Benin, Burkina Faso, Burundi, Cameroon, Canada, Central African
+Republic, Chad, Comoros, Congo - Brazzaville, Congo - Kinshasa, Côte d’Ivoire,
+Djibouti, Equatorial Guinea, France, French Guiana, French Polynesia, Gabon,
+Guadeloupe, Guinea, Haiti, Luxembourg, Madagascar, Mali, Martinique, Mauritania,
+Mauritius, Mayotte, Monaco, Morocco, New Caledonia, Niger, Rwanda, Réunion,
+Senegal, Seychelles, St. Barthélemy, St. Martin, St. Pierre & Miquelon,
+Switzerland, Syria, Togo, Tunisia, Vanuatu, Wallis & Futuna), Friulian (Italy),
+Galician (Spain), Ganda (Uganda), German (Austria, Belgium, Germany, Liechtenstein,
+Luxembourg, Switzerland), Gusii (Kenya), Hungarian (Hungary), Icelandic (Iceland),
+Inari Sami (Finland), Indonesian (Indonesia), Irish (Ireland), Italian (Italy, San
+Marino, Switzerland), Jola-Fonyi (Senegal), Kabuverdianu (Cape Verde), Kalaallisut
+(Greenland), Kalenjin (Kenya), Kamba (Kenya), Kikuyu (Kenya), Kinyarwanda (Rwanda),
+Latvian (Latvia), Lithuanian (Lithuania), Lower Sorbian (Germany), Luo (Kenya),
+Luxembourgish (Luxembourg), Luyia (Kenya), Machame (Tanzania), Makhuwa-Meetto
+(Mozambique), Makonde (Tanzania), Malagasy (Madagascar), Malay (Malaysia), Maltese
+(Malta), Manx (Isle of Man), Meru (Kenya), Morisyen (Mauritius), North Ndebele
+(Zimbabwe), Northern Sami (Finland, Norway, Sweden), Norwegian Bokmål (Norway,
+Svalbard & Jan Mayen), Norwegian Nynorsk (Norway), Nyankole (Uganda), Oromo
+(Ethiopia, Kenya), Polish (Poland, Angola, Brazil, Cape Verde, Guinea-Bissau, Macau
+SAR China, Mozambique, Portugal, São Tomé & Príncipe, Timor-Leste), Quechua
+(Bolivia, Ecuador, Peru), Romanian (Moldova, Romania), Romansh (Switzerland), Rombo
+(Tanzania), Rundi (Burundi), Rwa (Tanzania), Samburu (Kenya), Sango (Central
+African Republic), Sangu (Tanzania), Scottish Gaelic (United Kingdom), Sena
+(Mozambique), Serbian (Latin), Shambala (Tanzania), Shona (Zimbabwe), Slovak
+(Slovakia), Slovenian (Slovenia), Soga (Uganda), Somali (Djibouti, Ethiopia, Kenya,
+Somalia), Spanish (Argentina, Bolivia, Canary Islands, Ceuta & Melilla, Chile,
+Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Equatorial
+Guinea, Guatemala, Honduras, Latin America, Mexico, Nicaragua, Panama, Paraguay,
+Peru, Philippines, Puerto Rico, Spain, United States, Uruguay, Venezuela), Swahili
+(Congo - Kinshasa, Kenya, Tanzania, Uganda) Swedish (Finland, Sweden, Åland
+Islands), Swiss German (France, Liechtensteie, Switzerlane) Taita (Kenya), Teso
+(Kenya, Uganda), Turkish (Cyprus, Turkey), Upper Sorbian (Germany), Uzbek
+(Uzbekistan), Vunjo (Tanzania), Walser (Switzerland), Welsh (United Kingdom),
+Western European Western Frisian (Netherlands), Zulu (South Africa).
+
 
 ## Authors
 
+[Viktoriya Grabowska](http://www.vikaniesiada.blogspot.com)
+
 [Eben Sorkin](http://www.sorkintype.com)
 
-To see the history of the project or for other information please see the FONTLOG.txt 
-
-Thanks!
+To see the history of the project or for other information please see the [FONTLOG.txt](FONTLOG.txt)
