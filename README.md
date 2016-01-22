@@ -2,7 +2,7 @@
 
 Fruktur is useful for creating short, eye-catching texts, headlines and captions.
 
-it is a single-style font (Regular only.)
+It is a single-style font (Regular only.)
 
 ## License
 
