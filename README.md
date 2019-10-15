@@ -57,7 +57,7 @@ Luxembourgish (Luxembourg), Luyia (Kenya), Machame (Tanzania), Makhuwa-Meetto
 (Malta), Manx (Isle of Man), Meru (Kenya), Morisyen (Mauritius), North Ndebele
 (Zimbabwe), Northern Sami (Finland, Norway, Sweden), Norwegian Bokmål (Norway,
 Svalbard & Jan Mayen), Norwegian Nynorsk (Norway), Nyankole (Uganda), Oromo
-(Ethiopia, Kenya), Polish (Poland, Angola, Brazil, Cape Verde, Guinea-Bissau, Macau
+(Ethiopia, Kenya), Portuguese (Angola, Brazil, Cape Verde, Guinea-Bissau, Macau
 SAR China, Mozambique, Portugal, São Tomé & Príncipe, Timor-Leste), Quechua
 (Bolivia, Ecuador, Peru), Romanian (Moldova, Romania), Romansh (Switzerland), Rombo
 (Tanzania), Rundi (Burundi), Rwa (Tanzania), Samburu (Kenya), Sango (Central
